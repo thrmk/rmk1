@@ -41,7 +41,7 @@ matplotlib==2.2.5
 more-itertools==5.0.0
 mysql-connector==2.2.9
 ndg-httpsclient==0.5.1
-numpy==1.16.6
+numpy==1.22.0
 pandas==0.24.2
 pandas-datareader==0.8.1
 pathlib==1.0.1
