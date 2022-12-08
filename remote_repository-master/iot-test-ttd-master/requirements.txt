@@ -2,7 +2,7 @@ aniso8601==8.0.0
 backports.functools-lru-cache==1.6.1
 beautifulsoup4==4.8.2
 bs4==0.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.0.0
